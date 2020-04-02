@@ -1,4 +1,4 @@
-//! {{DESCRIPTION}}
+//! Slice::fill prototype
 //!
 //! # Examples
 //!

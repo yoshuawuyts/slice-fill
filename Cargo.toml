@@ -1,10 +1,10 @@
 [package]
-name = "{{PROJECTNAME}}"
+name = "slice-fill"
 version = "1.0.0"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/{{USERNAME}}/{{PROJECTNAME}}"
-documentation = "https://docs.rs/{{PROJECTNAME}}"
-description = "{{DESCRIPTION}}"
+repository = "https://github.com/yoshuawuyts/slice-fill"
+documentation = "https://docs.rs/slice-fill"
+description = "Slice::fill prototype"
 readme = "README.md"
 edition = "2018"
 keywords = []
