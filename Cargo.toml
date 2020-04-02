@@ -16,5 +16,6 @@ authors = [
 [features]
 
 [dependencies]
+libc = "0.2.68"
 
 [dev-dependencies]
